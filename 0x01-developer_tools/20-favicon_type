@@ -1,0 +1,3 @@
+The "type" value of the favicon image refers to the MIME type of the image file. The MIME type tells the browser how to handle the file and what kind of content it contains. 
+
+The most commonly used MIME type for favicon images is "image/x-icon". 
