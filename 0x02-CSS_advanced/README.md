@@ -33,3 +33,7 @@ General
 * All your files should start by a comment describing the task
 * A README.md file, at the root of the folder of the project, is mandatory
 * Your code should be W3C compliant and validate with W3C-Validator
+
+# End goal of the project
+![image](https://user-images.githubusercontent.com/106770288/236317970-4398ee17-7e2a-42ff-9117-c8f1c707b620.png)
+
