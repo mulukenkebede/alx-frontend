@@ -1,8 +1,8 @@
 # 0x02. Advanced CSS
 ---
 For this project, we expect you to look at these concepts:
-* CSS fundamentals
-* CSS advanced
+* [CSS fundamentals](https://intranet.alxswe.com/concepts/544)
+* [CSS advanced](https://intranet.alxswe.com/concepts/545)
 
 ## Resources
 Read or watch
